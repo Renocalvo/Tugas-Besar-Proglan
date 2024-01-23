@@ -19,6 +19,6 @@ this program can use to running a dekstop aplication like an ATM, with added a c
 how to use :
 1. User have to login with account matching in document Database.txt
 2. Auto direct to Main form you can kredit, debit, transfer yours saldos
-3. close auto write new database.txt
+3. Close program, will auto write new Database.txt
    
 
