@@ -1,14 +1,24 @@
 
 # APLIKASI GUI ATM
-<h3>Simple program develop with java in dekstop as GUI Aplication</h3>
-Build in with [java](https://www.java.com/en/) language with arsitecture UI by [java.FX](https://openjfx.io/)
 
-##Creator is Indra bayu, Mukh.Rezarudin Yusuf, Bilie saputra, Sindur R Sindurmas, Agymnastiyar Lintang
-##this project created for final assigment of class Pemrograman Lanjut
+Simple program develop with java in dekstop as GUI Aplication,
+Build in with [java](https://www.java.com/en/) language with arsitecture UI by [java.FX](https://openjfx.io/) <br>
 
-#Function : this program can use to running a dekstop aplication like an ATM
-#how to use
-##User have to login with account matching in document Database.txt
-##auto direct to Main form you can kredit, debit, transfer yours saldos
+as an assignment for an pemrogrsaman lanjut course at Muhammadiyah University of Malang
 
-#implementation of GUI, IO File, Version Control, Defensive program, spesification
+# Implementation
+1. Spesification and Defensive program
+2. [Javadoc](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.), and comment for documentation
+3. [Java API](https://docs.oracle.com/javase/8/docs/api/) for many library java
+4. Maven testing
+5. Gui with [java.FX](https://openjfx.io/)
+6. Java IO for handling file
+
+# Function 
+this program can use to running a dekstop aplication like an ATM, with added a calculation for write on database <br>
+how to use :
+1. User have to login with account matching in document Database.txt
+2. Auto direct to Main form you can kredit, debit, transfer yours saldos
+3. close auto write new database.txt
+   
+
