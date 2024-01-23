@@ -1,9 +1,8 @@
 
 # APLIKASI GUI ATM
-<h3>Simple program develop with [java](https://www.java.com/en/) in dekstop as GUI Aplication</h3>
+<h3>Simple program develop with java in dekstop as GUI Aplication</h3>
+Build in with [java](https://www.java.com/en/) language with arsitecture UI by [java.FX](https://openjfx.io/)
 
-#
-##Build in with java language with arsitecture by java.FX
 ##Creator is Indra bayu, Mukh.Rezarudin Yusuf, Bilie saputra, Sindur R Sindurmas, Agymnastiyar Lintang
 ##this project created for final assigment of class Pemrograman Lanjut
 
